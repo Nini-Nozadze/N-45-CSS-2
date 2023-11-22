@@ -1,0 +1,10 @@
+#box{
+    width: 357px;
+    height: 419px;
+    background-color: #fff;
+    border: 1px solid #4b4b4b;
+}
+
+#p{
+    color: grey;
+}
